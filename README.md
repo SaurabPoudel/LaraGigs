@@ -1,6 +1,6 @@
 # LaraGigs app
 
-An app for listing Laravel gigs/jobs.
+An app for listing Laravel gigs/jobs. This uses Laravel framework with Tailwind Css.
 
 ![Alt text](/public/images/screen.png "LaraGigs")
 
